@@ -8,3 +8,6 @@ Press **t** to activate the file finder.
 
 Press **y** to get a permanant link, note *https*
 
+You should no longer use rawgit.com to view HTML, instead *jsDelivr, GitHub pages, CodeSandbox, and ubpkg* are recommended.
+
+The open-source program Pandoc allows converstion of a range of formats into markdown. When you click the knit button in Rstudio it is Pandoc which preforms the final conversion.
