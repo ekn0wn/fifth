@@ -3,3 +3,8 @@ Impication: for any logical group of files or mini project-within-your-project, 
 Some repositories consist solely of **README.md**. Examples: Jeff Leek's write-ups on "how to share data with a statistician" or  "Developing R packages". I am becomming a bigger fan of **README.me**-only repos than gists because repo issues trigger notifications, whereas comments on gists do not.
 If you've got a directory full of web-friendly figures, such as PNGs, you can use code like this to generate a **README.md** for a quick DIY gallery, as Karl Broman has done with his "FruitSnacks". I did the same for all the fantastic "O RLY" book covers made by "The Practical Dev".
 I have also used this device to share Keynote slides on GitHiub(*mea culpa!*.  Export tham as PNGs images and *throw'em* intoa **README.md** gallery: slides on the file orginization and some on file naming.
+
+Press **t** to activate the file finder.
+
+Press **y** to get a permanant link, note *https*
+
